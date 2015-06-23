@@ -50,5 +50,6 @@ gulp dist
 # reset user to root for runtime
 USER root
 
- 
+# test
+VOLUME /root/.ssh/
 
